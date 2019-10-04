@@ -20,6 +20,6 @@
 正在学的编程语言 Java
 ```java
 pubilc static void main(String[] args){
-    system.out.println("hello world")
+    system.out.println("hello world");
 }
 ```
